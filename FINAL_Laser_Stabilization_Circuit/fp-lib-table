@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kicad MODELS")(type "KiCad")(uri "${KIPRJMOD}/kicad MODELS")(options "")(descr ""))
+)
