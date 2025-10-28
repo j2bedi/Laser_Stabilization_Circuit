@@ -1,15 +1,12 @@
 # Laser stabilization circuit repo 
 
+Kicad 9.0 project files located in repo 
+
+production files(gerber and drill) located within releases
 
 
-File - Laser Stabilization Circuit: https://github.com/user-attachments/files/22726060/FINAL_Laser_Stabilization_Circuit.zip
-File - BNC Generic Board(7 BNC connections): https://github.com/user-attachments/files/22725796/7_BNC_GENERAL.zip
+Kindly use kicad 9.0 :-)
 
-please use kicad 9.0 :-)
-
-[perhaps change repo name to be more general, and include all relevant projects under this repo OR make multiple project specific repos? ]
-
-Files located in issues tab, i should change this. 
 
 
 
